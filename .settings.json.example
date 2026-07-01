@@ -1,0 +1,11 @@
+{
+  "editor": "helix",
+  "open_mode": "window",
+  "terminal": "xdg-terminal-exec",
+  "theme": "yellow",
+  "default_sort": "number",
+  "default_difficulty_filter": "all",
+  "show_hints_default": false,
+  "show_syntax_hints_default": false,
+  "snowfall_enabled": true
+}

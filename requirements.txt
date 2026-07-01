@@ -1,0 +1,8 @@
+fastapi
+httpx
+requests
+pandas
+rich
+beautifulsoup4
+click
+typer

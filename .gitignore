@@ -1,0 +1,31 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.progress.json
+.favorites.json
+.settings.json
+.practice/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.env
+dist/
+build/
+*.egg-info/
+.vscode/
+.idea/
+*.swp
+
+# dev-only, not part of the published project
+tests/
+conftest.py
+pytest.ini
+requirements-dev.txt
+.github/
+UPLOAD.md
+
+# one-off scripts that already did their job (output is in tools/specs/bulk_additions.py)
+tools/build_bulk_specs.py
+tools/bulk_track_specs_part2.py
