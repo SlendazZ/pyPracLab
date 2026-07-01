@@ -13,12 +13,8 @@
 
 
 def remove_val(nums: list[int], val: int) -> list[int]:
-    new_list = []
+    pass
 
-    for num in nums:
-        if num != val:
-            new_list.append(num)
-    return new_list
 
 def run_tests() -> None:
     assert remove_val([3, 2, 2, 3], 3) == [2, 2]
